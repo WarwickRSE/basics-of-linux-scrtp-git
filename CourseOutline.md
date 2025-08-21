@@ -34,6 +34,8 @@ cat
 
 man
 
+Remote access
+
 #### Worked Example 1
 
 Treasure hunt
@@ -105,7 +107,6 @@ Lecture: System Map
 
 #### Remote Access
 
-ssh
 scp
 rsync
 wget

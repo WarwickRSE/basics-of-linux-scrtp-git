@@ -2,5 +2,6 @@
 *.wet_map.txt
 *.torn_map.txt
 *.blank_page.txt
+*.docx
 .DS_Store
 treasure_hunt/
